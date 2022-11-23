@@ -1,0 +1,12 @@
+help
+create file dslfvjdsf
+----
+date
+f2398y329823
+----
+name
+lasha
+----
+error
+Compile Error
+----
